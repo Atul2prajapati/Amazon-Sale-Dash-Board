@@ -62,8 +62,8 @@ Formatting: Format each visualization for clarity—adjust the font size, line s
 Consistency: Ensure all visualizations share a consistent style and color scheme.
 Legend and Data Labels: Use legends where appropriate and show data labels if it helps improve readability.
 
-**Things i Added on my DashBoard which i think make it Unique and Clean.
-**
+**Things i Added on my DashBoard which i think make it Unique and Clean.**
+
 1) LOGO
 2) Product Catogery
 3) Count of courier Status
